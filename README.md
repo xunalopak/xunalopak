@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://www.codewars.com/users/xunalopak/badges/large
+
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3frahu6003509mhpantuyhm/stats?cursusId=21&coalitionId=302" alt="rchampli's 42 stats" /></a>
 
